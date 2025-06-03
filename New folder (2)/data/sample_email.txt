@@ -1,0 +1,7 @@
+From: John Doe <john.doe@example.com>
+Subject: Request for Quotation
+
+Dear Team,
+Please send us a quote for the attached specs.
+Best regards,
+John

@@ -1,0 +1,1 @@
+{"source": "From: John Doe <john.doe@example.com>\nSubject: Request for Quotation\n\nDear Team,\nPlease send us a quote for the attached specs.\nBest regards,\nJohn\n", "timestamp": "2025-06-03T15:08:20.832607", "metadata": {"format": "email", "intent": "RFQ"}, "extracted_field": {"email_agent": {"sender": "John Doe <john.doe@example.com>", "urgency": "normal", "intent": "RFQ"}}}
